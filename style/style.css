@@ -1,0 +1,111 @@
+/* shared style */
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.btn-primary{
+    border-radius: 5px;
+background: #FFF;
+color: #005FAC;
+text-align: right;
+font-size: 20px;
+font-weight: 600;
+padding: 20px;
+}
+header{
+    background-image: url('../images/banner/banner3.png');
+    height: 100vh;
+    align-items: center;
+}
+.header-info{
+    text-align: right;
+ padding: 116px 100px 100px 680px;
+}
+.header-title{
+    color: #FFF;
+text-align: right;
+font-size: 65px;
+font-weight: 700;
+margin-bottom: 24px;
+}
+.header-description{
+    color: #FFF;
+text-align: right;
+font-size: 16px;
+font-weight: 400;
+margin-top: 0px;
+margin-bottom: 25px;
+}
+.privious-year-content{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    padding: 130px 150px;
+}
+ ul li{
+    list-style: none;
+    margin-bottom: 8px;
+ }
+main{
+    background: #FFF;
+}
+ul{
+    align-items: center;
+    margin-left: -40px;
+}
+.priviour-year-title{
+    color:  #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.priviour-year-description{
+    color:  #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px
+}
+.my-plan{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    text-align: center;
+    padding: 0px 150px;
+    margin-top: 50px;
+    margin-bottom: 135px;
+}
+.section-title{
+    color: #151414;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+}
+.planing-title{
+    color:  #151414;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+.plan-description{
+    color:  #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+.postive-section{
+    background-image: url('../images/watch.png');
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: top center; 
+    z-index: 0;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+.postive-section-info{
+    position: absolute;
+    top: 0px;
+   left: 160px;
+}
+.gradient1-image{
+    padding-left: 95px;
+}
