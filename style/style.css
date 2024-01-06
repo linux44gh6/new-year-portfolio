@@ -109,3 +109,12 @@ font-weight: 700;
 .gradient1-image{
     padding-left: 95px;
 }
+.footer-container{
+    background:  #151414;
+    display: flex;
+    justify-content: space-around;
+}
+.fotter-content{
+    width: 50%;
+    padding: 0px 230px;
+}
